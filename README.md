@@ -1,14 +1,3 @@
-# Calendly Front-End Clone
+## Calendly Frontend example for JavaScript
 
-I enjoyed scheduling an appointment using Calendly, so I decided to clone it! 
-
-Users should be able to select a date, select a time-slot, and register for an appointment.
-
-I used FullCalendar to implement a calendar. 
-
-I used sessionStorage to pass along the event details. 
-
-
-View the inspo: https://www.calendly-embed.com/pop-up-text-2/
-
-View my version: https://calendly-clone.vercel.app/
+![](https://user-images.githubusercontent.com/41141023/119228955-82225d00-bb50-11eb-8781-514ce207fa29.png)
